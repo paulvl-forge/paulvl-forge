@@ -270,7 +270,7 @@ class PaulVargas:
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%E2%AD%90+%C2%A1Gracias+por+pasar+por+aqu%C3%AD%21;Construido+con+%E2%98%95+y+Claude+Code" alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%E2%AD%90+%C2%A1Gracias+por+pasar+por+aqu%C3%AD%21" alt="footer typing"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,60:00FFA3,100:0D1117&height=120&section=footer"/>
 
