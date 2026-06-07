@@ -18,7 +18,7 @@
 <!-- ============================ BANNER ============================ -->
 <div align="center">
 
-![banner](banner.svg)
+![banner](/banner.svg)
 
 <!-- Typing animado -->
 <a href="https://github.com/paulvl-forge">
