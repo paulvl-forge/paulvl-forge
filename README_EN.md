@@ -135,17 +135,17 @@ class PaulVargas:
 <div align="center">
 
 <a href="https://github.com/paulvl-forge/RecoFacial">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulvl-forge&repo=RecoFacial&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=paulvl-forge&repo=RecoFacial&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
 </a>
 <a href="https://github.com/paulvl-forge/websitechatbot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulvl-forge&repo=websitechatbot&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=paulvl-forge&repo=websitechatbot&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
 </a>
 
 <a href="https://github.com/paulvl-forge/WebHotelPHP">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulvl-forge&repo=WebHotelPHP&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=paulvl-forge&repo=WebHotelPHP&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
 </a>
 <a href="https://github.com/paulvl-forge/Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=paulvl-forge&repo=Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=paulvl-forge&repo=Registro-de-Matriculas-de-Estudiantes-y-Notas-Programa-en-Java&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9&border_color=00D4FF"/>
 </a>
 
 </div>
@@ -186,8 +186,8 @@ class PaulVargas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulvl-forge&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulvl-forge&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulvl-forge&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulvl-forge&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=0CFBDE&text_color=C9D1D9"/>
 
 <br/>
 
@@ -195,7 +195,7 @@ class PaulVargas:
 
 <br/>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=paulvl-forge&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img width="90%" src="https://github-trophies.vercel.app/?username=paulvl-forge&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
