@@ -18,11 +18,7 @@
 <!-- ============================ BANNER ============================ -->
 <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0D1117,003545,006D8F,00D4FF&height=230&section=header&text=Paul%20Vargas%20Linares&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Ingeniero%20de%20Software%20con%20IA%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20BI%20%26%20Automatizaci%C3%B3n&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn&stroke=00D4FF&strokeWidth=1.2&v=1" alt="banner"/>
-
-</div>
+![banner](./banner.svg)
 
 <!-- Typing animado -->
 <a href="https://github.com/paulvl-forge">
