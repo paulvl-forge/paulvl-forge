@@ -14,11 +14,11 @@
   propia instancia: https://github.com/anuraghazra/github-readme-stats
 ============================================================================
 -->
-
+![banner](/banner.svg)
 <!-- ============================ BANNER ============================ -->
 <div align="center">
 
-![banner](/banner.svg)
+
 
 <!-- Typing animado -->
 <a href="https://github.com/paulvl-forge">
